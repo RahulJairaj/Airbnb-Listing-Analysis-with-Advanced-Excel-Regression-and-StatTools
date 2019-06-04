@@ -1,0 +1,2 @@
+# Airbnb-Listing-Analysis-with-Advanced-Excel-Regression-and-StatTools
+We analyze an airbnb dataset and attempt to predict whether a listing will be a luxury or budget one, based on several variables (in Variable excel file), using multiple regression in stat tools. We also perform detailed descriptive statistics on the existing data, perform correlation analysis, attempt to perform hypothesis testing, attempt forecasting and finally conclude with some recommendations based on the regression results.
